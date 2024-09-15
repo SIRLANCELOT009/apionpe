@@ -1,167 +1,124 @@
 {
-  "titulo": "SEGUNDA ELECCIÓN PRESIDENCIAL 2016: ACTAS POR NÚMERO",
-  "actualizado": "20/06/2016 a las 19:16 h",
-  "actas": [
-    {
-      "numero_acta": "000001",
-      "numero_copia": "93Y",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "CHACHAPOYAS",
-        "distrito": "CHACHAPOYAS",
-        "local_de_votacion": "IE 18288 ISABEL LYNCH DE RUBIO",
-        "direccion": "JR. AYACUCHO 870"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 290,
-        "total_votantes": 241,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000002",
-      "numero_copia": "94X",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "CHACHAPOYAS",
-        "distrito": "SAN JUAN DE CUTERVO",
-        "local_de_votacion": "IE 20345 SAN JUAN",
-        "direccion": "AV. MARIANO MELGAR 123"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 350,
-        "total_votantes": 300,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000003",
-      "numero_copia": "95Z",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "BONGARA",
-        "distrito": "JUMBILLA",
-        "local_de_votacion": "IE 15467 JUMBILLA",
-        "direccion": "CALLE LIMA 456"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 420,
-        "total_votantes": 370,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000004",
-      "numero_copia": "96A",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "LUYA",
-        "distrito": "LUYA",
-        "local_de_votacion": "IE 17854 LUYA",
-        "direccion": "JR. LOS PIONEROS 789"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 500,
-        "total_votantes": 450,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000005",
-      "numero_copia": "97B",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "UTCUBAMBA",
-        "distrito": "CUMBA",
-        "local_de_votacion": "IE 21234 CUMBA",
-        "direccion": "PASAJE ALONSO DE MENDOZA 321"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 270,
-        "total_votantes": 230,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000006",
-      "numero_copia": "98C",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "CHACHAPOYAS",
-        "distrito": "LEIMEBAMBA",
-        "local_de_votacion": "IE 13579 LEIMEBAMBA",
-        "direccion": "AV. EL SOL 101"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 310,
-        "total_votantes": 280,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000007",
-      "numero_copia": "99D",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "BONGARA",
-        "distrito": "RECTA",
-        "local_de_votacion": "IE 24680 RECTAS",
-        "direccion": "JR. SAN MARTIN 654"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 380,
-        "total_votantes": 350,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000008",
-      "numero_copia": "100E",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "LUYA",
-        "distrito": "SAN FRANCISCO",
-        "local_de_votacion": "IE 35791 SAN FRANCISCO",
-        "direccion": "PASAJE LOS ANDES 789"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 420,
-        "total_votantes": 400,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000009",
-      "numero_copia": "101F",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "UTCUBAMBA",
-        "distrito": "BALSAS",
-        "local_de_votacion": "IE 46802 BALSAS",
-        "direccion": "AV. LOS HEROES 987"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 290,
-        "total_votantes": 260,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    },
-    {
-      "numero_acta": "000010",
-      "numero_copia": "102G",
-      "informacion_ubigeo": {
-        "departamento": "AMAZONAS",
-        "provincia": "CHACHAPOYAS",
-        "distrito": "SAN FRANCISCO",
-        "local_de_votacion": "IE 57903 SAN FRANCISCO",
-        "direccion": "CALLE SAN JUAN 321"
-      },
-      "informacion_mesa": {
-        "electores_habiles": 300,
-        "total_votantes": 270,
-        "estado_acta": "ACTA ELECTORAL NORMAL"
-      }
-    }
-  ],
-  "nota": "Si requiere la imagen del acta, solicítela a través del procedimiento de acceso a la información pública."
+    "product": [
+        {
+            "img": "https://www.claroshop.com/c/star-wars-day/img/categorias/TAZAS_CATEGORIAS_STAR_WARS.png",
+            "name": "Trooper taza",
+            "price": "$60.00",
+            "Description": "Taza casco Trooper",
+            "category": "starwars",
+            "id": 1
+        },
+        {
+            "img": "https://cdn1.coppel.com/images/catalog/mkp/1773/5000/17733590-1.jpg",
+            "name": "Funko Vader",
+            "price": "$60.00",
+            "Description": "Funko coleccionable Darth vader",
+            "category": "starwars",
+            "id": 2
+        },
+        {
+            "img": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA12N6pr.img?w=500&h=500&m=6",
+            "name": "Grogu (Baby Yoda)",
+            "price": "$100.00",
+            "Description": "Grogu peluche electrónico",
+            "category": "starwars",
+            "id": 3
+        },
+        {
+            "img": "https://cdn.shopify.com/s/files/1/0563/9831/5692/files/luke-skywalker-lightsaber-hilt.png?v=1656863305",
+            "name": "Lightsaber",
+            "price": "$3000.00",
+            "Description": "Sable de luz para duelos",
+            "category": "starwars",
+            "id": 4
+        },
+        {
+            "img": "https://tooys.mx/media/wysiwyg/Darth_Vader-estatua-premium-format-por-sideshow-19.png",
+            "name": "Darth Vader",
+            "price": "$450.00",
+            "Description": "DarDarth  Vader figura de coleción",
+            "category": "starwars",
+            "id": 5
+        },
+        {
+            "img": "https://www.cibermoda.mx/assets/images/craft_images/productos/Consola-Retro-Portatil-X12-Plus-pantalla-7-pulgadas-color-rojo-azul-joystick.webp",
+            "name": "X12 Plus",
+            "price": "$4500.00",
+            "Description": "consola portatil, 16 Gb de RAM",
+            "category": "consolas",
+            "id": 1
+        },
+        {
+            "img": "https://revistasociosams.com/wp-content/uploads/2021/03/control-inalambrico-Xbox%E2%80%8B-1.png",
+            "name": "Control Xbox One",
+            "price": "$950.00",
+            "Description": "Control Xbox serie One",
+            "category": "consolas",
+            "id": 2
+        },
+        {
+            "img": "https://www.incentivosblackhawk.com.mx/wp-content/uploads/2022/05/Steam.png",
+            "name": "Steam Card",
+            "price": "$200.00",
+            "Description": "steam card 200 pelucholares",
+            "category": "consolas",
+            "id": 3
+        },
+        {
+            "img": "https://www.techpowerup.com/review/scuf-impact-controller-ps4-pc/images/small.png",
+            "name": "Control usb",
+            "price": "$500.00",
+            "Description": "Control de china",
+            "category": "consolas",
+            "id": 4
+        },
+        {
+            "img": "https://virtumaniacos.com/wp-content/uploads/2022/03/playstation-vr-visor.webp",
+            "name": "Oculus Quest 2 ",
+            "price": "$4500.00",
+            "Description": "Su versatilidad nos va a permitir usarlas en formato Standalone, es decir no depende de ningún otro elemento como cámaras o hardware externo, y esto las ha convertido el las gafas VR más vendidas desde 2020. Incluso puedes conectarlas a un ordenador (opcional) por cable o por wifi para jugar a juegos y usar aplicaciones aún más exigentes. ",
+            "category": "consolas",
+            "id": 5
+        },
+        {
+            "img": "https://otakutienda.com/cdn/shop/products/IMG_5186_580x.png?v=1644943571",
+            "name": "Pikachu Itachi  edition",
+            "price": "$500.00",
+            "Description": "Edición especial Pikachu Itachi  anbu",
+            "category": "diversos",
+            "id": 1
+        },
+        {
+            "img": "https://ggezstore.net/wp-content/uploads/2021/12/DEADPOOL-PIKACHU-e1640658722195.png",
+            "name": "Pikachu Deadpool",
+            "price": "$250.00",
+            "Description": "Pikachu edición deadpool",
+            "category": "diversos",
+            "id": 2
+        },
+        {
+            "img": "https://cdn.shopify.com/s/files/1/2437/4099/products/spider-man_marvel_silo_480x672.png?v=1649713239",
+            "name": "Spiderman Hot Toys",
+            "price": "$660.00",
+            "Description": "Hot Toys CosRider: Marvel Spider Man Far From Home - Spider Man — Distrito Max",
+            "category": "diversos",
+            "id": 3
+        },
+        {
+            "img": "https://www.panupli.es/3364-large_default/funko-pop-es-dla-gandalf-montado-en-gwaihir.jpg",
+            "name": "Funko Gandalf en Gwaihir",
+            "price": "$600.00",
+            "Description": "Colecciona el Funko POP de Gandalf montado en el águila Gwaihir de las increíbles películas de El Señor de los Anillos",
+            "category": "diversos",
+            "id": 4
+        },
+        {
+            "img": "https://lemongamesmx.com/cdn/shop/products/fun55641-dragon-ball-z-cell-first-form-glow-in-the-dark-pop-vinyl-figure-popcultcha-01_480x480.png?v=1661980008",
+            "name": "Cell DBZ",
+            "price": "$450.00",
+            "Description": "Cell primera forma, retroiluminado",
+            "category": "diversos",
+            "id": 5
+        }
+    ]
 }
